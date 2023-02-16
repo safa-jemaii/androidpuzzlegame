@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Puzzle</string>
+    <string name="shuffle">Mieszaj</string>
+    <string name="reset">Resetuj</string>
+    <string name="or">Lub</string>
+    <string name="choose_image">Wybierz obrazek:</string>
+</resources>
